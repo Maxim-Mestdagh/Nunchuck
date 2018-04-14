@@ -1,3 +1,10 @@
 séance 1 & 2 : caméra (abandon)
 séance 3 : nunchuk, lecture docs techniques, recuperation trame (ne marche pas)
 séance 4 : recuperation trame, affichage valeurs joystick, boutons
+séance 5 : test d'implémentation d'un module son 
+séance 6 : utilisation du bluetooth : telephone (maitre) -> carte keil
+séance 7 & 8 & 9 : mise en place d'un module blurtooth maître
+séance 9 : mise en place d'une communication wifi
+séance 10 : réglage des erreurs recontrés 
+séance 11 : finalisation de la communication entre la nunchuk et la gamel
+séance 12 : optimisation du code pour un meilleur temps de réaction
